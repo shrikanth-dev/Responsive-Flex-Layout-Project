@@ -5,7 +5,6 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -25,13 +24,7 @@ This project demonstrates a responsive Flexbox-based layout using HTML and CSS, 
 
 ### Screenshot
 
-![](./screenshots/results-summary-component-desktop-img.png)
-![](./screenshots/results-summary-component-mobile-img.png))
-
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+![](image.png)
 
 ### Built with
 
